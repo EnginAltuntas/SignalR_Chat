@@ -1,0 +1,199 @@
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\ChatUygulamasi.dll.config
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\ChatUygulamasi.dll
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\ChatUygulamasi.pdb
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\Microsoft.Owin.dll
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\Microsoft.Owin.Security.dll
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\Newtonsoft.Json.dll
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\Owin.dll
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\System.Web.Helpers.dll
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\System.Web.Mvc.dll
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\System.Web.Razor.dll
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\System.Web.Webpages.Deployment.dll
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\System.Web.Webpages.dll
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\System.Web.Webpages.Razor.dll
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\Microsoft.Owin.xml
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\Microsoft.Owin.Security.xml
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\Newtonsoft.Json.xml
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\System.Web.Razor.xml
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\System.Web.Webpages.xml
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\System.Web.Webpages.Deployment.xml
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\System.Web.Webpages.Razor.xml
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\System.Web.Helpers.xml
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\bin\System.Web.Mvc.xml
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\obj\Debug\ChatUygulamasi.csprojResolveAssemblyReference.cache
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\obj\Debug\ChatUygulamasi.dll
+c:\users\gencay\documents\visual studio 2013\Projects\ChatUygulamasi\ChatUygulamasi\obj\Debug\ChatUygulamasi.pdb
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\ChatUygulamasi.dll.config
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\ChatUygulamasi.dll
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\ChatUygulamasi.pdb
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\Microsoft.Owin.dll
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\Microsoft.Owin.Security.dll
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\Newtonsoft.Json.dll
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\Owin.dll
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\System.Web.Helpers.dll
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\System.Web.Mvc.dll
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\System.Web.Razor.dll
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\System.Web.Webpages.dll
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\System.Web.Webpages.Razor.dll
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\Microsoft.Owin.xml
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\Microsoft.Owin.Security.xml
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\Newtonsoft.Json.xml
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\System.Web.Razor.xml
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\System.Web.Webpages.xml
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\System.Web.Webpages.Razor.xml
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\System.Web.Helpers.xml
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\bin\System.Web.Mvc.xml
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\obj\Debug\ChatUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\obj\Debug\ChatUygulamasi.dll
+C:\Users\engin\Desktop\Yeni klasör\ChatUygulamasi\obj\Debug\ChatUygulamasi.pdb
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\ChatUygulamasi.dll.config
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\ChatUygulamasi.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\ChatUygulamasi.pdb
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\Docker.DotNet.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\Docker.DotNet.X509.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\Microsoft.Owin.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\Microsoft.Owin.Security.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\Newtonsoft.Json.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\Owin.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.ValueTuple.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Web.Helpers.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Web.Mvc.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Web.Razor.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Web.Webpages.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Web.Webpages.Razor.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\Microsoft.Owin.xml
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\Microsoft.Owin.Security.xml
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\Newtonsoft.Json.xml
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Web.Razor.xml
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Web.Webpages.xml
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Web.Webpages.Razor.xml
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Web.Helpers.xml
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Web.Mvc.xml
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\obj\Debug\ChatUygulamasi.csprojAssemblyReference.cache
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\obj\Debug\ChatUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\obj\Debug\ChatUygulamasi.csproj.CopyComplete
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\obj\Debug\ChatUygulamasi.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\obj\Debug\ChatUygulamasi.pdb
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\Microsoft.Win32.Primitives.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\netstandard.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.AppContext.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Collections.Concurrent.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Collections.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Collections.NonGeneric.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Collections.Specialized.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.ComponentModel.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.ComponentModel.Primitives.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Console.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Data.Common.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Diagnostics.Contracts.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Diagnostics.Debug.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Diagnostics.Process.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Diagnostics.StackTrace.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Diagnostics.Tools.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Diagnostics.TraceSource.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Diagnostics.Tracing.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Drawing.Primitives.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Dynamic.Runtime.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Globalization.Calendars.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Globalization.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Globalization.Extensions.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.IO.Compression.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.IO.Compression.ZipFile.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.IO.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.IO.FileSystem.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.IO.IsolatedStorage.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.IO.Pipes.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Linq.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Linq.Expressions.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Linq.Parallel.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Linq.Queryable.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Net.Http.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Net.NameResolution.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Net.NetworkInformation.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Net.Ping.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Net.Primitives.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Net.Requests.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Net.Security.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Net.Sockets.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Net.WebHeaderCollection.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Net.WebSockets.Client.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Net.WebSockets.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.ObjectModel.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Reflection.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Reflection.Extensions.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Reflection.Primitives.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Resources.Reader.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Resources.ResourceManager.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Resources.Writer.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Runtime.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Runtime.Extensions.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Runtime.Handles.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Runtime.InteropServices.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Runtime.Numerics.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Runtime.Serialization.Json.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Security.Claims.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Security.Cryptography.Csp.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Security.Principal.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Security.SecureString.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Text.Encoding.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Text.Encoding.Extensions.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Text.RegularExpressions.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Threading.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Threading.Overlapped.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Threading.Tasks.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Threading.Thread.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Threading.ThreadPool.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Threading.Timer.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Xml.ReaderWriter.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Xml.XDocument.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Xml.XmlDocument.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Xml.XmlSerializer.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Xml.XPath.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Xml.XPath.XDocument.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Buffers.dll
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\Docker.DotNet.pdb
+C:\Users\engin\Desktop\mesajlasma\ChatUygulamasi\bin\System.Buffers.xml

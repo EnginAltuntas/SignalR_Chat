@@ -1,0 +1,46 @@
+﻿@{Layout = null;}
+<!DOCTYPE html>
+<html>
+<head>
+
+    <script src="~/Scripts/jquery-1.6.4.min.js"></script>
+    <script src="~/Scripts/jquery.signalR-2.1.0.min.js"></script>
+    <script src="~/SignalR/Hubs"></script>
+    <script>
+        $(function () {
+            var chat = $.connection.chatHub;
+            var $username = $('#KullaniciAdi');
+            var $message = $('#Mesaj');
+            var $messages = $('#Mesajlar');
+
+            $message.focus();
+
+            chat.client.sendMessage = function (name, message) {
+
+                $messages.append('<li><strong>' + name + '</strong>: ' + message + '</li>');
+            };
+
+            $.connection.hub.start().done(function () {
+                $('#btnMesajYolla').click(function () {
+
+                    chat.server.send($username.val(), $message.val());
+
+                    $message.val('').focus();
+                });
+            });
+        });
+
+    </script>
+</head>
+<body>
+    <div style="position:relative;top:100px;text-align:center">
+        <input  type="text" id="KullaniciAdi" placeholder="Kullanıcı Adı giriniz"/><br />
+        <input  type="text" id="Mesaj" placeholder="Mesajınızı Giriniz"/><br />
+        <button  id="btnMesajYolla">Mesaj Yolla</button> <br /><br />
+
+        <div id="Mesajlar"></div>
+
+    </div>
+    
+</body>
+</html>
